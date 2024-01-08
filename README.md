@@ -20,9 +20,8 @@ This project aims to optimize Starbucks app offers by targeting them more effect
 
 ## Analysis
 
-- Focuses on unnecessary offers (completed without viewing)
-- Uses Jupyter Notebook for analysis (Data_Scientist_Capstone_Project.ipynb)
-- Detailed results presented in Medium article (link: [INSERT ARTICLE LINK])
+- Uses Jupyter Notebook for analysis (Data_Scientist_Capstone_Project.ipynb). 
+- A Medium article. 
 
 ## Key Findings
 
