@@ -45,5 +45,5 @@ This project aims to optimize Starbucks app offers by targeting them more effect
 
 ## Resources
 
-- Medium Article: 
+- Medium Article: https://medium.com/@aljawharhalotaibi/optimizing-offer-targeting-a-data-driven-exploration-into-revenue-loss-and-customer-behavior-ef7057f68ed9
 - Jupyter Notebook: Data_Scientist_Capstone_Project.ipynb
