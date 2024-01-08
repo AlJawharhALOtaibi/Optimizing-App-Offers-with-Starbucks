@@ -8,15 +8,15 @@ This project aims to optimize Starbucks app offers by targeting them more effect
 
 ## Key Questions
 
-- How much revenue is lost due to unnecessary offers?
-- Which customer types frequently complete offers without viewing them?
-- How does income differ across customer types and offer completion behavior?
+1. How much revenue is lost due to "unnecessary offers"?
+2. What are the characteristics of customers who frequently complete offers without viewing them?
+3. How does income vary across different customer segments?
 
 ## Data
 
 - Customer demographics
 - Offer interactions
-- Transaction data
+- Transaction data (Unavailable for upload due to its size. Please contact me directly so that I can share it with you.)
 
 ## Analysis
 
