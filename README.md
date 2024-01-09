@@ -1,8 +1,5 @@
  # Data Scientist Capstone Project: Optimizing App Offers with Starbucks
 <img width="2000" alt="Storefront_Resized" src="https://github.com/AlJawharhALOtaibi/Optimizing-App-Offers-with-Starbucks/assets/87391133/7562565c-d54e-4ab8-a8bf-50aaeecf0a3e">
-# Data Scientist Capstone Project: Optimizing App Offers with Starbucks
-
-![Storefront](https://github.com/AlJawharhALOtaibi/Optimizing-App-Offers-with-Starbucks/assets/87391133/7562565c-d54e-4ab8-a8bf-50aaeecf0a3e)
 
 ## Introduction
 In the evolving landscape of customer engagement, businesses grapple with ensuring that their offers effectively target the intended audience. This project delves into the intricate challenge of addressing the issue of sending offers to customers who, despite completing associated tasks, did not view the offers. This article aims to reveal our analysis outcomes, focusing on mitigating the impact of "unnecessary offers."
